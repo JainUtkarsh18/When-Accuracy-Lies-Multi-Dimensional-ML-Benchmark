@@ -4,7 +4,7 @@ A reusable machine learning robustness benchmarking project for evaluating multi
 
 The project goes beyond conventional clean-test performance by investigating how machine learning models behave when real-world data quality deteriorates through feature noise, missing values, outliers, label noise, distribution shift, and feature corruption.
 
-The benchmark focuses on **performance, stability, degradation behaviour, and graceful failure** rather than simply identifying the model with the highest clean-test score.
+The benchmark focuses on **performance, stability, degradation behaviour, and graceful failure** rather than simply identifying the model with the highest clean-test score. 
 
 ---
 
