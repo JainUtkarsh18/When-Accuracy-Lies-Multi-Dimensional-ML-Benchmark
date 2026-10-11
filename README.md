@@ -8,11 +8,13 @@ The benchmark focuses on **performance, stability, degradation behaviour, and gr
 
 --- 
 
-## Kaggle Notebook
+## Kaggle Notebook and Write-up
 
 The original notebook **"When Accuracy Lies: A Multi-Dimensional ML Benchmark"** is available on [Kaggle](https://www.kaggle.com/code/utkarshjain76/when-accuracy-lies-multi-dimensional-ml-benchmark).
 
 The notebook is designed as an optimized multi-dimensional machine learning benchmark that evaluates representative model families across multiple classification datasets and controlled stress conditions.
+
+Read out the full interesting mathematical logic behind the above notebook on [Kaggle](https://www.kaggle.com/writeups/utkarshjain76/when-accuracy-lies-a-multi-dimensional-machine-le)
 
 The benchmark investigates the question:
 
